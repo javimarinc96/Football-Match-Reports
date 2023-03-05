@@ -1,3 +1,4 @@
+![football-match-reports](https://user-images.githubusercontent.com/44240533/222983859-5280b688-3489-4082-86b7-1814690865eb.svg)
 # Football Match Reports
 
 Welcome to Football Match Reports on Exercism's Java Track.
